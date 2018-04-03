@@ -5,7 +5,7 @@ Python projects for scientific visualization with [VTK](https://www.vtk.org/).
 ## Project 1, 2 - Interpolation and Color Visualization
 The first actual project involve exploring interpolation schemes and the use of color mapping to visualize two-dimensional scalar datasets. 
 
-[Project 1 Report](https://github.com/tomelf/CS530-Projects-Scientific-Visualization/blob/master/project1/yang798.pdf)
+[Project 1 Report](https://github.com/tomelf/CS530-Projects-Scientific-Visualization/blob/master/project1/yang798.pdf)  
 [Project 2 Report](https://github.com/tomelf/CS530-Projects-Scientific-Visualization/blob/master/project2/yang798.pdf)
 
 ## Project 3 - Isosurfaces
